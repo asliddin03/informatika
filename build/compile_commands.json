@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/asliddin/Desktop/project/TP_project/build",
+  "command": "/usr/bin/g++   -I/home/asliddin/Desktop/project/TP_project/dev  -g   -std=gnu++14 -o CMakeFiles/main.dir/dev/Factories.cpp.o -c /home/asliddin/Desktop/project/TP_project/dev/Factories.cpp",
+  "file": "/home/asliddin/Desktop/project/TP_project/dev/Factories.cpp"
+},
+{
+  "directory": "/home/asliddin/Desktop/project/TP_project/build",
+  "command": "/usr/bin/g++   -I/home/asliddin/Desktop/project/TP_project/dev  -g   -std=gnu++14 -o CMakeFiles/main.dir/dev/Player.cpp.o -c /home/asliddin/Desktop/project/TP_project/dev/Player.cpp",
+  "file": "/home/asliddin/Desktop/project/TP_project/dev/Player.cpp"
+},
+{
+  "directory": "/home/asliddin/Desktop/project/TP_project/build",
+  "command": "/usr/bin/g++   -I/home/asliddin/Desktop/project/TP_project/dev  -g   -std=gnu++14 -o CMakeFiles/main.dir/dev/run.cpp.o -c /home/asliddin/Desktop/project/TP_project/dev/run.cpp",
+  "file": "/home/asliddin/Desktop/project/TP_project/dev/run.cpp"
+},
+{
+  "directory": "/home/asliddin/Desktop/project/TP_project/build",
+  "command": "/usr/bin/g++   -I/home/asliddin/Desktop/project/TP_project/dev  -g   -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /home/asliddin/Desktop/project/TP_project/main.cpp",
+  "file": "/home/asliddin/Desktop/project/TP_project/main.cpp"
+}
+]

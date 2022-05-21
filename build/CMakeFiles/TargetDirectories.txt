@@ -1,0 +1,3 @@
+/home/asliddin/Desktop/project/TP_project/build/CMakeFiles/rebuild_cache.dir
+/home/asliddin/Desktop/project/TP_project/build/CMakeFiles/edit_cache.dir
+/home/asliddin/Desktop/project/TP_project/build/CMakeFiles/main.dir
